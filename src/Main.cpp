@@ -8,5 +8,6 @@
 #include "game.h"
 int main(int argc, const char* argv[]) {
 	Game game;
+	//test comment
 	return 0;
 }
