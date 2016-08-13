@@ -8,8 +8,16 @@ public:
 	Game();
 	~Game();
 private:
-	void gameLoop();
+	void gameLoop(){
+		//loop the game if the time is 5
+		///soskposs
+		////spkspks
+		///sls[s]
+		///sjosjpos
+		/////sjsososjosjpss
+	}
 	void draw(Graphics &graphics);
 	void update(float elapseTime);
 };
+
 #endif
